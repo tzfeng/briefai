@@ -1,0 +1,7 @@
+.venv/
+.env
+tests/env_variables.py
+logs/
+*.pyc
+*.pyo
+run_news_emailer.bat
